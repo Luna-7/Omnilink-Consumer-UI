@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" fill="none">
+  <rect width="800" height="1000" fill="#F1F2F0"/>
+  <circle cx="400" cy="440" r="112" fill="#E5E8E4"/>
+  <path d="M330 420h140l-14 158H344l-14-158Z" stroke="#8B918B" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M359 420c0-29 18-50 41-50s41 21 41 50" stroke="#8B918B" stroke-width="12" stroke-linecap="round"/>
+  <text x="400" y="680" text-anchor="middle" fill="#7B817B" font-family="sans-serif" font-size="30">商品图片待补充</text>
+</svg>
